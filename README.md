@@ -12,3 +12,4 @@ This can be used by insurance companies to proactively identify and manage the r
 This approach provides insurance companies with the necessary tools to identify new markets, target customers with the highest risk profiles, and optimize their pricing strategies. We achieved 80% accuracy on risk prediction and 77% accuracy on premium prediction Ultimately, this approach can help insurance companies lower their risk and costs and provide better customer service
 
 please use the premium prediction dataset in A_stacking ipynb
+dataset for risk classification is taken from kaggle (https://www.kaggle.com/datasets/sagnik1511/car-insurance-data)
